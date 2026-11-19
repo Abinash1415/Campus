@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Campus</string>
+    <string name="event_details">Voir</string>
+    <string name="location_to_confirm">Lieu à confirmer</string>
+    <string name="book_event">Réserver</string>
+    <string name="event_image_description">Illustration de l’événement %1$s</string>
+    <string name="categories_heading">A découvrir</string>
+    <string name="dark_theme_label">Sombre</string>
+    <string name="all_categories">Tout</string>
+
+    <plurals name="available_seats">
+        <item quantity="one">%d place disponible</item>
+        <item quantity="other">%d places disponibles</item>
+    </plurals>
+</resources>
